@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Mohanad Mohamed
 
-<!--
-**mohanad-hafez/mohanad-hafez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at King Saud University passionate about AI, NLP, and deep learning.
 
-Here are some ideas to get you started:
+### 🧠 Interests
+- Machine Learning and Deep Learning
+- NLP
+- Computer Vision    
+- Large Language Models  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently Learning
+- Reinforcement Learning & RLHF  
+- Advanced Techniques in LLMs  
+
+### 🔗 Connect with me
+- 📫 mohanadmohamed474@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohanad-mohamed-4736562b4/)  
