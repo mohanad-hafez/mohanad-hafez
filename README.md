@@ -9,8 +9,7 @@ I'm a Computer Science student at King Saud University passionate about AI, NLP,
 - Large Language Models  
 
 ### 📚 Currently Learning
-- Reinforcement Learning & RLHF  
-- Advanced Techniques in LLMs  
+- Reinforcement Learning & RLHF   
 
 ### 🔗 Connect with me
 - 📫 mohanadmohamed474@gmail.com  
