@@ -1,16 +1,9 @@
-## 👋 Hi, I'm Mohanad Mohamed
+## Hi, I'm Mohanad.
 
-I'm a Computer Science student at King Saud University passionate about AI, NLP, and deep learning.
+I am a Computer Science student at King Saud University.
 
-### 🧠 Interests
-- Machine Learning and Deep Learning
-- NLP
-- Computer Vision    
-- Large Language Models  
+I work primarily on Artificial Intelligence, with a specific focus on Natural Language Processing and  Representation Learning.
 
-### 📚 Currently Learning
-- Reinforcement Learning & RLHF   
+I use this page to host code for my research projects and other random experiments I am working on.
 
-### 🔗 Connect with me
-- 📫 mohanadmohamed474@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohanad-mohamed-4736562b4/)  
+[Email] / [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mohanad-mohamed-4736562b4/?originalSubdomain=sa)) / [Google Scholar]([https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=7t_YOvgAAAAJ&hl=en&oi=ao))
