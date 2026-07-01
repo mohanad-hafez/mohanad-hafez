@@ -2,7 +2,7 @@
 
 I am a Computer Science student at King Saud University.
 
-I work primarily on Artificial Intelligence, with a specific focus on Natural Language Processing and  Representation Learning.
+I work primarily on Artificial Intelligence, with a specific focus on Natural Language Processing and  AI for Software Engineering.
 
 I use this page to host code for my research projects and other random experiments I am working on.
 
